@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+
+### My name is Ethan Webb and I am a junior at ETSU majoring in Information Technology. 
+### Some of my favorite hobbies include reading, playing games, and I just recently started learning guitar.
 
 <!--
 **Ethan-W1/Ethan-W1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
