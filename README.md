@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### My name is Ethan Webb and I am a senior at ETSU majoring in Information Technology. 
+### My name is Ethan Webb and I am currently enrolled at ETSU majoring in Information Technology. 
 ### Some of my favorite hobbies include reading, playing games, and I just recently started learning guitar.
 
 <!--
