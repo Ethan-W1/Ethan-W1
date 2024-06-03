@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### My name is Ethan Webb and I am undergraduate at ETSU with a degree in Information Technology. 
+### My name is Ethan Webb and I am a undergraduate at ETSU with a degree in Information Technology. 
 ### Some of my favorite hobbies include reading, playing games, and I just recently started learning guitar.
 
 <!--
